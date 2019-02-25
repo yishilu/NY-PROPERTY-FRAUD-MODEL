@@ -1,6 +1,6 @@
 NY-PROPERTY-FRAUD-MODEL
 
-data can be downloaded:  https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
+Data can be downloaded:  https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
 
 Steps:
 1. Perform data quality analysis to understand characteristics of 32 fields.
